@@ -1,4 +1,4 @@
-# turbo-siesta
+# project
 
 ## Project setup
 ```
